@@ -1,0 +1,228 @@
+/*
+Theme Name: BeautyHeadlines
+Author: ang0mat
+*/
+body {
+	color: #595959;	
+	margin: 0 auto;	
+	max-width: 100%;	   
+	width: 981px;
+	min-width: 0;
+	font-family: Arial;
+	font-size: 14px;	
+}
+#wrapper{		
+	padding: 0;		
+    position: relative;
+}
+#header {
+	background: url(images/header.gif) no-repeat scroll 0 0 #450200;
+    min-height: 131px;
+    overflow: hidden;
+}
+
+#menu_nav {
+	margin:0;	
+	padding: 0px;
+	float:left;	
+	width:981px;	
+	background: url(images/nav-container.png) no-repeat transparent;
+	height: 37px;
+	clear: both;
+}
+/*
+#menu_nav ul {
+	list-style:none;
+	width:500px;
+	float:left;
+}
+#menu_nav ul li {
+	background: none no-repeat scroll right center transparent;
+    float: left;    
+	padding: 5px 0 0 0;
+}
+.page_nav ul li {
+	margin:0;
+	padding:0 2px 0 0;
+	float:left;		
+}
+#menu_nav ul li a {
+	border-right:1px solid #435968;
+	display:block;
+	margin:0;
+	padding:2px 20px;
+	color:#435968;
+	text-decoration:none;	
+	font:normal 13px Arial;
+	font-weight: bold;
+}
+#menu_nav ul li.last a {
+	border:0;
+}
+*/
+#home_nav {
+	margin: 0px 0px 0px 65px;
+}
+
+
+/* main content */
+#content {
+	clear: both;	
+	padding: 10px 60px 100px 70px;	
+	display: inline-block;
+    margin: 0;    
+    width: 860px;
+}
+#wrapper_content {
+	border-top: 1px solid #C4CDDD;
+	border-right: 1px solid #C4CDDD;
+	border-bottom: 1px solid #C4CDDD;	
+	display: inline-block;
+}
+#main_content {
+	float: left;	
+	width: 510px;
+	padding: 20px 20px 20px 0px;	
+}
+#sidebar {
+	margin: 5px 5px 5px 540px;
+	background: #ECF1FF;	
+	padding: 5px 5px 5px 5px;	
+	min-height: 800px;	
+	min-width: 300px;
+	max-width: 300px;	
+}
+.clearfix {
+	display: block;		
+}
+
+
+
+/*navigation*/
+#nav {
+    margin: 0;
+    padding: 0;
+}
+#nav li {
+    display: block;
+    float: left;
+    position: relative;
+}
+#nav li a {
+    display: block;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 20px;
+}
+#nav ul {
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+}
+#nav ul a, #nav ul li {
+    float: none;
+}
+#dropmenu, #dropmenu ul {
+    font-weight: bold;
+    height: 37px;
+    line-height: 1.5em;
+    list-style-position: inside;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    z-index: 300;
+	color: #435968;
+}
+#dropmenu a {
+    border-right: 1px solid #ADBADD;
+    color: #435968;
+    display: block;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;    
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: auto;
+	text-align: center;
+}
+#dropmenu a:hover {
+    background: none repeat scroll 0 0 #55C2E3;
+    color: #FFFFFF;
+}
+#dropmenu li {
+    float: left;
+    position: relative;
+}
+#dropmenu ul {
+    visibility: hidden;
+    width: 30px;
+}
+#txt_newsletter {
+    float: left;
+    height: 18px;
+    margin-right: 5px;
+    width: 170px;
+}
+#discover-product {
+    border-color: #CFCDCD;
+    border-style: solid;
+}
+#content #sidebar .gadget {
+	margin:0 0 10px 0;
+	padding:0px 10px 0px 10px;	
+	font-family: arial;	
+}
+
+#newsletter_signup {
+	background-color: #FFFFFF;
+    color: #4C4C4C;
+    display: inline-block;
+    font-family: Arial;
+    max-width: 270px;
+    min-width: 270px;
+    padding: 0 0 5px 5px; 
+}
+#newsletter_signup_label {
+	color: #4C4C4C;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 2px 0 5px 0;
+}
+}
+.clear_both {
+	clear: both;
+}
+div.star {
+    color: #4C4C4C;
+    font-family: Arial;
+    font-size: 17px;  
+	font-weight: bold;
+	padding: 0px 0 5px 5px;
+}
+ul.sb_menu, ul.ex_menu {
+    color: #424242;
+    list-style: disc inside none;
+    margin: 0;
+    padding: 0;
+}
+#content #sidebar .gadget a {
+	color: #595959;
+	text-decoration: none;
+}
+#dropmenu .children li a{
+	text-transform: uppercase;
+	color: #435968;	
+	min-width: 150px;
+	width: auto;
+	background: #CBF4FA;
+}
+#dropmenu .children li a:hover {
+	background: none repeat scroll 0 0 #55C2E3;
+    color: #FFFFFF;
+}

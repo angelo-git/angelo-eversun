@@ -1,0 +1,51 @@
+
+
+
+/*navigation*/
+#nav {padding:0;margin:0;}
+#nav li {position:relative;display:block;float:left;}
+#nav li a {display:block;float:left;height:30px;line-height:30px;padding: 0 20px;}
+/*sub navigation*/
+#nav ul {position:absolute;top: 30px;left:0;padding:0;} /*the top:30px command must be the same height as your parent LI so the dropdown displays below the main navigation*/
+#nav ul a, #nav ul li {float:none;}
+#dropmenu, #dropmenu ul {
+	margin:0; padding:0; 
+	list-style-type:none; 
+	list-style-position:inside; 
+	position:relative; 
+	line-height:1.5em; 
+	height: 37px;
+	z-index:300; 
+	width:100%; 
+	background:#fff transparent; 
+	font-weight:bold;
+} 
+#dropmenu a {
+	display:block; 
+	padding:0.25em 1em; 
+	color: #435968;
+	text-transform : uppercase;
+	font-size: 12px;
+	font-family: arial;
+	border-right: 1px solid #435968;
+	text-decoration:none; 
+	font-weight: bold;
+	background:#d0f6fb;
+} 
+#dropmenu a:hover{
+	/*background: #55c2e3;*/	
+	background: #0090E1;
+	color:#fff;
+} 
+#dropmenu li {float:left; position:relative;} 
+#dropmenu ul {visibility:hidden; width: 30px;} 
+#txt_newsletter {
+	height: 18px;
+	float: left;
+	margin-right: 5px;
+	width: 170px;
+}
+#discover-product {
+	border-color: #cfcdcd;
+    border-style: solid;
+}
