@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" style="margin-top: 0">
@@ -16,31 +15,6 @@
 	<?php wp_head(); ?>
 </head>
 <body>
-<script type='text/javascript'>
-jQuery(document).ready(function() {
-//$("#dropmenu ul").css({visibility: "hidden"}); // Opera Fix
-
-jQuery("#dropmenu li").hover(function(){
-jQuery(this).find('ul:first').css({visibility: "visible"});
-},function(){
-jQuery(this).find('ul:first').css({visibility: "hidden"});
-});
-
-
-jQuery("#txt_newsletter").val('Enter your email here...');
-jQuery("#txt_newsletter").click(function (){
-	jQuery("#txt_newsletter").val('');
-});
-
-jQuery("#txt_newsletter").blur(function (){
-	jQuery("#txt_newsletter").val('Enter your email here...');
-});
-
-});
-
-
-</script>
-
 
 <div id="wrapper">
 	<?php
@@ -54,9 +28,13 @@ jQuery("#txt_newsletter").blur(function (){
 					the_content();
 				?>
 			</div>
-			<?php
-				get_sidebar();
-			?>
+			<div id="sidebar">
+				<?php
+					get_sidebar('news-letter');
+					get_sidebar('main-sidebar');
+				?>
+			</div>
+			
 		</div>	
 	</div>	
 </div>

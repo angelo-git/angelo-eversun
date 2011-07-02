@@ -1,0 +1,3 @@
+ftp: ftp.skincareheadlines.com
+user: scheadlines
+pass: rcSrRcT3znTP

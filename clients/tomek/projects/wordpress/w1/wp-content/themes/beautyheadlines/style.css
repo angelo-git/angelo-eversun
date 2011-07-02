@@ -1,4 +1,5 @@
 /*
+/*
 Theme Name: BeautyHeadlines
 Author: ang0mat
 */
@@ -9,7 +10,7 @@ body {
 	width: 981px;
 	min-width: 0;
 	font-family: Arial;
-	font-size: 14px;	
+	font-size: 13px;		
 }
 #wrapper{		
 	padding: 0;		
@@ -94,6 +95,7 @@ body {
 }
 .clearfix {
 	display: block;		
+	clear:both;
 }
 
 
@@ -150,7 +152,7 @@ body {
     width: auto;
 	text-align: center;
 }
-#dropmenu a:hover {
+#dropmenu a:hover {	
     background: none repeat scroll 0 0 #55C2E3;
     color: #FFFFFF;
 }
@@ -172,22 +174,21 @@ body {
     border-color: #CFCDCD;
     border-style: solid;
 }
-#content #sidebar .gadget {
-	margin:0 0 10px 0;
+#content #sidebar .gadget{
+	margin:0 0 20px 0;
 	padding:0px 10px 0px 10px;	
 	font-family: arial;	
 }
-
-#newsletter_signup {
-	background-color: #FFFFFF;
-    color: #4C4C4C;
-    display: inline-block;
-    font-family: Arial;
-    max-width: 270px;
-    min-width: 270px;
-    padding: 0 0 5px 5px; 
+#sidebar .gadget img {
+	border: 1px solid #AAAAAA;
 }
-#newsletter_signup_label {
+div.newsletter_signup {
+	background-color: #FFFFFF;
+	margin:0 10px 10px 10px;
+	padding: 0 10px 10px 10px;
+	font-family: arial;
+}
+.newsletter_signup_label {
 	color: #4C4C4C;
     font-family: Arial;
     font-size: 17px;
@@ -223,6 +224,60 @@ ul.sb_menu, ul.ex_menu {
 	background: #CBF4FA;
 }
 #dropmenu .children li a:hover {
-	background: none repeat scroll 0 0 #55C2E3;
+	background: none repeat scroll 0 0 #55C2E3;	
     color: #FFFFFF;
 }
+/*custom menu nav*/
+.menu-menu_nav-container {
+	margin:0;	
+	padding: 0px;
+	float:left;	
+	width:981px;	
+	background: url(images/nav-container.png) no-repeat transparent;
+	height: 37px;
+	clear: both;
+} 
+.menu-menu_nav-container ul, .sub-menu ul, .menu-item ul, .menu ul{
+	 color: #435968;
+    font-weight: bold;
+    height: 37px;
+    line-height: 1.5em;
+    list-style-position: inside;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    z-index: 300;
+}
+.sub-menu li{
+	background: #CBF4FA;
+}
+.menu-menu_nav-container ul li, .sub-menu ul li,  .menu ul li{
+	float: left;
+    position: relative;
+}
+.menu-menu_nav-container ul li a, .sub-menu ul li a{
+	border-right: 1px solid #ADBADD;
+    color: #435968;
+    display: block;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: auto;
+}
+.menu-menu_nav-container ul li a:hover,   .sub-menu ul li a:hover	{
+	background: none repeat scroll 0 0 #55C2E3;
+    color: #FFFFFF;
+}	
+.menu-menu_nav-container ul {
+	margin: 0 0 0 65px;
+}
+/*end*/
+
+
+
