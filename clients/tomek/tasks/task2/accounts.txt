@@ -1,0 +1,15 @@
+http://www.lifecellskin.com/pages/_common/thankyou/
+[6/28/11 4:55:01 PM] slava: ftp.lifecellskin.com
+user: angelo
+pass: u6dB97kw
+[6/28/11 4:57:03 PM] slava: <?=$_GET['fname']?>
+[5:10:42 AM] tomek: this
+[5:10:44 AM] tomek: <?=$_GET['fname']?>
+
+
+
+http://www.lifecellskin.com/#ic
+http://www.lifecellskin.com/pages/_common/thankyou/flash/
+http://www.lifecellskin.com/pages/_common/thankyou/flash/greenscreen_small_suit.flv
+temp:
+http://www.lifecellskin.com/pages/_common/thankyou/temp_beautyheadlines/

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'FlipFlopNormal';
+    src: url('flipflop-webfont.eot');
+    src: url('flipflop-webfont.eot?iefix') format('eot'),
+         url('flipflop-webfont.woff') format('woff'),
+         url('flipflop-webfont.ttf') format('truetype'),
+         url('flipflop-webfont.svg#webfontXFpdOOYC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

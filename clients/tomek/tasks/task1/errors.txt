@@ -1,0 +1,31 @@
+Header (section)
+Sign In and Register 
+	- no functionality
+
+	
+1. Home page (Page)
+Get our Newsletter! (section)
+	- no functionality
+
+Top 5 Products (section)
+	from 2 - 5 products:
+	the buy here button redirects to its own page (home)
+	
+	
+2. Reviews (Page) - none
+3. Advice Panel (Page) - none
+4. Specials (Page) - none
+5. Blog (Page) - none
+6. Top 10 (Page) - none
+	from 2 - 10 Products
+
+	
+Footer (section)	
+    Tell a Friend 
+		- dummy contents only
+    Privacy Policy
+		- dummy contents only
+    DMCA Policy
+		- dummy contents only
+	
+	

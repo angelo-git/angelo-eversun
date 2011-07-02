@@ -1,0 +1,12 @@
+Where it says 'Paula Abdul - Wow, it works, Paris Hilton - I simply
+love it' that should not be part of the paragraph above it. Also the
+next line that begins 'What especially got our attention...' that is
+supposed to be the first line of the next paragraph. Reference my text
+document to see how I split up these paragraphs.
+
+- Where it says 'Click here to see a statement from a world renown
+doctor on Lifecell's efficacy)', that needs to be a blue hyperlink.
+There are areas in the copy I made blue hyperlinks. Please reference
+my document and make all blue hyperlinks where I made them.
+
+- We need Bobbie's entire story here, no 'read more' link.

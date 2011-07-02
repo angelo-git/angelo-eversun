@@ -1,0 +1,95 @@
+FTP account:
+[10:53:26 PM] tomek: ftp.skincaresearch.com
+[10:53:36 PM] tomek: user: tomek
+[10:53:50 PM] tomek: pass: TomekDlifecell3
+
+WP account:
+Username: amaov
+Password: AngeloAOV2011
+http://www.skincaresearch.com/wp-login.php
+    
+	
+	Hello sir.
+    These are the list that I have noticed that needs fixes.
+
+    Header (section)
+    Sign In and Register
+	
+	Login:
+        - no functionality
+		- DONE
+		- TO DO'S
+		- copy login.css to login css path/directory to the file server
+		- copy email-login plugin  (customize errors labels)
+		-  copy register-plus plugin
+		- copy wp-login.php to site 
+		- REQUIRED: 
+		- ftp account
+		
+		
+    REGISTER:
+		- to do's
+		
+
+	
+    collect following:
+
+- first last
+- male/female
+- email address
+- phone number
+I'm gonna give you a layout for the form. you will use it here:
+http://www.skincaresearch.com/wp-login.php
+and here:
+http://www.skincaresearch.com/wp-login.php?action=register
+
+Posting comments in the review section of the product should be available only to the registered users.
+"Write a review" button should be taking the registered user to the commenting of specific product. 
+Unregistered user should be taken to the registration form.
+
+    1. Home page (Page)
+    Get our Newsletter! (section)
+        - no functionality
+    Also basic data collection - this can be populated in google spreadsheet.
+
+ 
+
+    Top 5 Products (section)
+        from 2 - 5 products:
+        the buy here button redirects to its own page (home)
+
+It should redirect to the product review page (for now) 
+in the mean time we gonna set up affiliate accounts with other companies and then we will link those with their landing pages with our affiliate code. 
+
+       
+    2. Reviews (Page) - none
+    3. Advice Panel (Page) - none
+    4. Specials (Page) - none
+    5. Blog (Page) - none
+    6. Top 10 (Page) - none
+        from 2 - 10 Products
+		
+			
+       
+    Footer (section)   
+        Tell a Friend - remove
+            - dummy contents only 
+			- DONE
+        Privacy Policy - will send
+            - dummy contents only
+        DMCA Policy - will send
+            - dummy contents only
+        
+
+ Copyright © 2011 SkinCareSearch.com Inc. All Rights Resereved. skincareviews.com
+ Please remove "skincareviews.com" from the end of this line. 
+	- DONE
+
+Advice Panel
+Individual articles (after clicking on the titles)
+contain images - Im gonna send you the images corresponding with the articles - please update those.
+The image of the girl getting botox injection is just for placement. - we have to remove it.
+- DONE
+
+
+

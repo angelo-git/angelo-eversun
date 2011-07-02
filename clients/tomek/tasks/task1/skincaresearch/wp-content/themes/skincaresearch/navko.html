@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#hnav {
+	background: url(images/nav-bg.gif);
+	width: 980px;
+	height: 35px;
+	font-size: 13px;
+	font-family: tahoma, arial,verdana,;
+	color: #393939;
+	font-weight: normal;
+	margin: 0px auto 0px;
+	padding: 0px; float:left
+	}
+	
+#nav {
+	margin: 0px;
+	padding: 0px;
+	}
+		
+	#hnav ul {
+	margin:0;
+	padding:0px 0px 0 0px;
+	list-style:none; 
+      }
+    #hnav li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #hnav a {
+      float:left;
+      /*background: url(images/hover-left.gif) no-repeat left top;*/
+      margin:0;
+      padding:0 0px 0 0px;  
+      text-decoration:none; 
+	  margin-left:0; border-right: 1px solid #888888
+      }
+    #hnav a span {
+      float:left;
+      display:block;
+      background:url(images/hover-right.gif) no-repeat right top;
+      padding: 8px 15px 10px 15px; 
+      color:#393939
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    #hnav a span {float:none; }
+    /* End IE5-Mac hack */
+    #hnav a:hover span {
+      color:#433e2e; color:#433e2e
+      }
+    #hnav a:hover {
+      background-position:0% -38px; color:#FFFFFF; 
+	  
+      }
+    #hnav a:hover span {
+      background-position:100% -39px; 
+      }
+ 	#hnav #active  {
+      /*background:url(images/menu-active-left.gif) no-repeat left top;  */
+	  background-position:0% -38px;
+	  color:#fff; 
+	  display:block;
+      }
+    #hnav  #active span {
+      background:url(images/active-right.gif) no-repeat ;
+      background-position:100% -39px; 
+	  float:left; display:block; color:#fff; 
+      }

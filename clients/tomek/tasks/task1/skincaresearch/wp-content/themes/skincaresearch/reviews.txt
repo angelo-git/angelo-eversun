@@ -1,0 +1,30 @@
+reviews ----------------------------------------------------
+<div id="customers-review">
+<div><img class="alignleft size-full wp-image-97" title="5stars" src="http://www.skincaresearch.com/wp-content/uploads/2010/11/5stars.gif" alt="" width="126" height="17" /> <span>Name and city Customer nr 1 </span> <span class="date">14 Oct. 2010</span></div>
+Maecenas tincidunt nisi pulvinar sem ornare id hendrerit arcu vulputate. Sed nisi dolor, sollicitudin eget commodo eget, aliquam in lectus. Nulla consectetur egestas orci vel convallis. Mauris lacus ipsum, pellentesque id consectetur eu, suscipit in augue. Aenean porttitor, tellus at adipiscinl licitudin eget
+
+</div>
+<div id="customers-review">
+<div><img class="alignleft size-full wp-image-97" title="5stars" src="http://www.skincaresearch.com/wp-content/uploads/2010/11/5stars.gif" alt="" width="126" height="17" /> <span>Name and city Customer nr 1 </span> <span class="date">14 Oct. 2010</span></div>
+Maecenas tincidunt nisi pulvinar sem ornare id hendrerit arcu vulputate. Sed nisi dolor, sollicitudin eget commodo eget, aliquam in lectus. Nulla consectetur egestas orci vel convallis. Mauris lacus ipsum, pellentesque id consectetur eu, suscipit in augue. Aenean porttitor, tellus at adipiscinl licitudin eget
+
+</div>
+<div id="customers-review">
+<div><img class="alignleft size-full wp-image-97" title="5stars" src="http://www.skincaresearch.com/wp-content/uploads/2010/11/5stars.gif" alt="" width="126" height="17" /> <span>Name and city Customer nr 1 </span> <span class="date">14 Oct. 2010</span></div>
+Maecenas tincidunt nisi pulvinar sem ornare id hendrerit arcu vulputate. Sed nisi dolor, sollicitudin eget commodo eget, aliquam in lectus. Nulla consectetur egestas orci vel convallis. Mauris lacus ipsum, pellentesque id consectetur eu, suscipit in augue. Aenean porttitor, tellus at adipiscinl licitudin eget
+
+</div>
+<div id="customers-review">
+<div><img class="alignleft size-full wp-image-97" title="5stars" src="http://www.skincaresearch.com/wp-content/uploads/2010/11/5stars.gif" alt="" width="126" height="17" /> <span>Name and city Customer nr 1 </span> <span class="date">14 Oct. 2010</span></div>
+Maecenas tincidunt nisi pulvinar sem ornare id hendrerit arcu vulputate. Sed nisi dolor, sollicitudin eget commodo eget, aliquam in lectus. Nulla consectetur egestas orci vel convallis. Mauris lacus ipsum, pellentesque id consectetur eu, suscipit in augue. Aenean porttitor, tellus at adipiscinl licitudin eget
+
+</div>
+<div id="customers-review">
+<div><img class="alignleft size-full wp-image-97" title="5stars" src="http://www.skincaresearch.com/wp-content/uploads/2010/11/5stars.gif" alt="" width="126" height="17" /> <span>Name and city Customer nr 1 </span> <span class="date">14 Oct. 2010</span></div>
+Maecenas tincidunt nisi pulvinar sem ornare id hendrerit arcu vulputate. Sed nisi dolor, sollicitudin eget commodo eget, aliquam in lectus. Nulla consectetur egestas orci vel convallis. Mauris lacus ipsum, pellentesque id consectetur eu, suscipit in augue. Aenean porttitor, tellus at adipiscinl licitudin eget
+
+</div>
+
+------------------------------------------------------------------
+
+
